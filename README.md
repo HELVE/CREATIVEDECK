@@ -54,6 +54,8 @@ DISTRIBUTION. Where is it sold to the ultimate consumer? What middlemen are invo
 
 Create a paper prototype
 
+IDEA: Creative Deck: Rotary (device for fun idea exploration with kids). Spin the cards around with the device and it will drop an idea when you need it. Variety of card packs with activities for kids (playground), activities for adults (romantic), activities related to food etc.
+
 Productivity blogs http://unclutterer.com/
 
 ![GALLERY QUAD](/assets/template_visuals/temp-dual-gallery.png)
