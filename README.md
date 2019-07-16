@@ -1,11 +1,12 @@
 ![Project Banner](/assets/template_visuals/temp-banner.png)
 
 <a name="intro"></a>
-# CREATIVEDECK - INSPIRATION CARD TOOL
-creativedeck
+# CREATIVE DECK - TOOL FOR PROFESSIONALS AND BEGINNERS
+
+URL: facebook.com/creativedeck
 Inspiration Card Tool
 
-Creative Tool for Professionals and Beginners
+"Creative Tool for Professionals and Beginners"?
 
 https://docs.google.com/spreadsheet/ccc?key=0An8tKnHTYKnOdG82MDV4SHI5VUJuRUVmTTExbkxlUUE#gid=0
 
