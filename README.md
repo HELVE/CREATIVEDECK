@@ -69,6 +69,8 @@ IDEA: Creative Deck: Rotary (device for fun idea exploration with kids). Spin th
 
 Productivity blogs http://unclutterer.com/
 
+![](27986180-d462e95a-63fb-11e7-94d6-6b35e62c126b.jpg)
+
 ![](27986181-d5b72398-63fb-11e7-8f00-8731c2e93289.JPG)
 
 
