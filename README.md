@@ -5,8 +5,10 @@
 <a name="intro"></a>
 # CREATIVE DECK - TOOL FOR PROFESSIONALS AND BEGINNERS
 
-URL: facebook.com/creativedeck
+URL: https://www.facebook.com/creativedeck/
 Inspiration Card Tool
+
+"Określ na jakim etapie jest Twój projekt kreatywny i zaplanuj jego dalszy rozwój dzięki pomocnemu zestawowi kart Creative Deck. Definiuj, planuj, rozwijaj!"
 
 "Creative Tool for Professionals and Beginners"?
 
