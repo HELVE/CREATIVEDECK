@@ -1,6 +1,6 @@
-![](creativedeck_logo.png)
-
 ![](creativedeck_cover.png)
+
+![](creativedeck_logo.png)
 
 ![](helve-project-banner.png)
 
