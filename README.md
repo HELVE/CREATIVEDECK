@@ -9,7 +9,7 @@
 
 URL: https://www.facebook.com/creativedeck/
 
-Tools/Equipment Category
+Tools/Equipment Category --- PRODUCT HUNT / FACEBOOK
 
 Inspiration Card Tool
 
