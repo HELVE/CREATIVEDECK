@@ -1,4 +1,6 @@
-![Project Banner](/assets/template_visuals/temp-banner.png)
+![](creativedeck_logo.png)
+
+![](creativedeck_cover.png)
 
 ![](helve-project-banner.png)
 
@@ -6,6 +8,9 @@
 # CREATIVE DECK - TOOL FOR PROFESSIONALS AND BEGINNERS
 
 URL: https://www.facebook.com/creativedeck/
+
+Tools/Equipment Category
+
 Inspiration Card Tool
 
 "Określ na jakim etapie jest Twój projekt kreatywny i zaplanuj jego dalszy rozwój dzięki pomocnemu zestawowi kart Creative Deck. Definiuj, planuj, rozwijaj!"
