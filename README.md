@@ -10,6 +10,8 @@ Inspiration Card Tool
 
 "Określ na jakim etapie jest Twój projekt kreatywny i zaplanuj jego dalszy rozwój dzięki pomocnemu zestawowi kart Creative Deck. Definiuj, planuj, rozwijaj!"
 
+Post: Want to be more productive and effective while being at your creative best? We'll let you know how Creative Deck can give you exactly that and more as soon as we launch on Product Hunt. Stay shufflin' Creators!
+
 "Creative Tool for Professionals and Beginners"?
 
 https://docs.google.com/spreadsheet/ccc?key=0An8tKnHTYKnOdG82MDV4SHI5VUJuRUVmTTExbkxlUUE#gid=0
